@@ -1,4 +1,0 @@
-streamlit>=1.40
-pandas>=2.2
-numpy>=1.26
-git+https://github.com/iqoptionapi/iqoptionapi.git
